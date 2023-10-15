@@ -33,7 +33,7 @@ plugins:
 
 title: Documentación
 
-nombres: Nombres y Apellidos
+nombres: Manuela Orlas Rengifo
 submodulo: Lógica de Programación
 periodo: 2023-2
 url_foto:  Enlace a la imagen
