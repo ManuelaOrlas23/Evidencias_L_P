@@ -5,11 +5,10 @@
 ### Actividad: Ejecicios Array - ArrayList
 1. En parejas, probar, analizar y explicar el funcionamiento de los siguientes ejemplos de Array y ArrayList.
 Ejemplo Array
+
 ```
 import java.util.Arrays;
-
 public class EjercicioArray {
-
     public static void main(String[] args) {
         // Crear un array de números enteros
         int[] numeros = {5, 2, 10, 7, 1};
@@ -43,13 +42,9 @@ public class EjercicioArray {
  ```
 import java.util.ArrayList; 
 import java.util.Scanner;
-
 public class AppNotas {
-
   public static void main(String[] args) {
-
     ArrayList<String> notas = new ArrayList<>();
-    
     Scanner scan = new Scanner(System.in);
 
     while(true) {
