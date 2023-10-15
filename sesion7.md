@@ -4,9 +4,9 @@
 ## Sesión 7 
 ### Actividad: Ejecicios Array - ArrayList
 1. En parejas, probar, analizar y explicar el funcionamiento de los siguientes ejemplos de Array y ArrayList.
-Ejemplo Array
 
-```
+### Ejemplo Array
+
 import java.util.Arrays;
 public class EjercicioArray {
     public static void main(String[] args) {
@@ -37,9 +37,9 @@ public class EjercicioArray {
         System.out.println("Array ordenado: " + Arrays.toString(numeros));
     }
 }
-```
+
  ### Ejemplo Array list
- ```
+
 import java.util.ArrayList; 
 import java.util.Scanner;
 public class AppNotas {
@@ -88,7 +88,7 @@ public class AppNotas {
   }
 
 }
-```
+
 ## Explicacion de los ejercicios 
 # Array
 
