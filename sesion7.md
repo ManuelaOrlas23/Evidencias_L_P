@@ -91,6 +91,7 @@ public class AppNotas {
 ```
 ## Explicacion de los ejercicios 
 # Array
+
 El código en java realizar 2 tareas:
 Imprime el contenido de un array llamado números.
 Calcula la suma de los elementos en esa matriz y luego imprime el resultado de la suma.
@@ -101,7 +102,9 @@ Luego, el código procede a calcular la suma de los elementos en el array:
 El código funciona recorriendo un array para comparar cada iteración con una variable llamada máximo para así poder mantener un registro del número más grande que se encuentra hasta el momento.
 En resumen, este código es una forma válida de encontrar el número más grande en un array en Java y funcionará correctamente siempre que el array contenga al menos un elemento.
 Este código se utiliza para ordenar el array numeros en orden ascendente, para luego imprimir el resultado ordenado 
+
 # Array_List
+
 El  ArrayList llamado `notas` es para almacenar las notas. Cada elemento del ArrayList es una cadena de caracteres que contiene el título y el contenido de una nota.
 Se inicia un bucle `while(true)` que se ejecutará continuamente hasta que el usuario seleccione la opción "Salir" (opción 3).
  En cada iteración del bucle, se muestra un menú con tres opciones: "Agregar nota" (opción 1), "Mostrar notas" (opción 2) y "Salir" (opción 3).
