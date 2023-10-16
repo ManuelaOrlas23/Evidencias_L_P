@@ -20,7 +20,7 @@
 ## Desarrollo
 
 ## ESTRUCTURA WHILE
-'''
+
 public class EstructuraRepetitivas {
 
 public static void main(String[] args) {
@@ -43,9 +43,9 @@ public static void main(String[] args) {
         }
     }
 }
-'''
+
 ## ESTRUCTURA WHILE
-'''
+
 public static void main(String[] args) {
 
         Scanner Scanner = new Scanner(System.in);
@@ -68,11 +68,9 @@ public static void main(String[] args) {
         }
        
     }
-'''
-
 
  ## DO WHILE 
-'''
+
 public class EstructuraRepetitivas
 
 public static void main(String[] args) {
@@ -97,9 +95,9 @@ public static void main(String[] args) {
      
     }
 }
-'''
+
 ## DO WHILE 
-'''
+
 public class EstructuraRepetitivas {
 
 public static void main(String[] args) {
@@ -127,9 +125,9 @@ public static void main(String[] args) {
      
     }
 }
-'''
+
 ## FOR
-'''
+
 public class EstructuraRepetitivas {
 
 public static void main(String[] args) {
@@ -138,13 +136,11 @@ public static void main(String[] args) {
 
             System.out.println(num);
         }
-       
-     
     }
 }
-'''
+
 ## FOR
-'''
+
 public class EstructuraRepetitivas {
 
 public static void main(String[] args) {
@@ -172,8 +168,9 @@ public static void main(String[] args) {
             }
         }
 }
+
 }
-'''
+
 <!-- Su documentación aquí -->
 
 
