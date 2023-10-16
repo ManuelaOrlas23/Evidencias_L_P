@@ -119,9 +119,7 @@ Las funciones `agregarNota()` y `mostrarNotas()` son simples. `agregarNota()` pe
 
  ### Ejercicio Array
 
-```
 import java.util.Arrays;
-
 /**
  *
  * @author user
@@ -156,7 +154,7 @@ public class Sesion8 {
         System.out.println("Array ordenado: " + Arrays.toString(datos));
     }
 }
-```
+
 
 <!-- Su documentación aquí -->
 

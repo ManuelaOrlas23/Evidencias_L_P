@@ -25,9 +25,7 @@
 ### EJERCICIO 1 
 
 public class LogicaProgramacion {
-
    public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
 
         System.out.println("Ingrese un numero");
@@ -48,9 +46,7 @@ public class LogicaProgramacion {
 ### EJERCICIO 2 
 
 public class LogicaProgramacion {
-
    public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
 
         System.out.println("Ingrese un numero");
@@ -71,9 +67,7 @@ public class LogicaProgramacion {
 
 
 public class LogicaProgramacion {
-
    public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
 
         System.out.println("Ingrese un numero");
@@ -99,9 +93,7 @@ public class LogicaProgramacion {
 ### EJERCICIO 4 
 
 public class LogicaProgramacion {
-
    public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
 
         System.out.print("Ingrese un número entero: ");
@@ -123,9 +115,7 @@ public class LogicaProgramacion {
 ### EJERCICIO 5 
 
 public class LogicaProgramacion {
-
    public static void main(String[] args) {
-
       int num = 5;
       num +=1;
       System.out.println(" Incremento :"+num);
@@ -137,9 +127,7 @@ public class LogicaProgramacion {
 ### EJERCICIO 6
 
 public class LogicaProgramacion {
-
    public static void main(String[] args) {
-
       int num = 10;
       num += 5;
       System.out.println(num);

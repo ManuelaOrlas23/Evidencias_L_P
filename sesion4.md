@@ -38,7 +38,6 @@
 
 ## Desarrollo 
 public class LogicaEstructuraCondicional {
-
     public static void main(String[] args) {
         // Variables de tipo String
         String nombre = "Juan Pérez";
@@ -143,7 +142,8 @@ public class LogicaEstructuraCondicional {
             Alejandra Tamayo        
            
         }
-
+        }
+}
 <!-- Su documentación aquí -->
 
 

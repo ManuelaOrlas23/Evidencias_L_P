@@ -25,7 +25,6 @@ public class MayorDeDosNumeros {
             return num2;
         }
     }
-
     public static void main(String[] args) {
         int numero1 = 10;
         int numero2 = 20;
@@ -48,7 +47,6 @@ public class ContadorDeVocales {
         }
         return contador;
     }
-
     public static void main(String[] args) {
         String texto = "Escribe un método que cuente las vocales en una cadena de texto.";
         int resultado = contarVocales(texto);
@@ -67,7 +65,6 @@ public class ContadorDePalabras {
         // El tamaño del arreglo "palabras" es igual al número de palabras
         return palabras.length;
     }
-
     public static void main(String[] args) {
         String texto = "Este es un ejemplo de contador de palabras en Java.";
         int resultado = contarPalabras(texto);
@@ -79,9 +76,7 @@ public class ContadorDePalabras {
 
 ```
 import java.util.Arrays;
-
 public class OrdenarPalabrasAlfabeticamente {
-
     public static String ordenarPalabras(String texto) {
         
         String[] palabras = texto.split("\\s+");
@@ -94,7 +89,6 @@ public class OrdenarPalabrasAlfabeticamente {
         
         return resultado;
     }
-
     public static void main(String[] args) {
         String texto = "Este es un ejemplo de ordenar palabras alfabéticamente en Java";
         String resultado = ordenarPalabras(texto);

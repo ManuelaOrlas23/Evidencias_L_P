@@ -22,9 +22,7 @@
 ## ESTRUCTURA WHILE
 
 public class EstructuraRepetitivas {
-
 public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
 
         System.out.println(" Ingrese un numero entero");
@@ -47,7 +45,6 @@ public static void main(String[] args) {
 ## ESTRUCTURA WHILE
 
 public static void main(String[] args) {
-
         Scanner Scanner = new Scanner(System.in);
        
         System.out.println(" Igrese una cadena de caracteres ");
@@ -72,7 +69,6 @@ public static void main(String[] args) {
  ## DO WHILE 
 
 public class EstructuraRepetitivas
-
 public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
        
@@ -99,7 +95,6 @@ public static void main(String[] args) {
 ## DO WHILE 
 
 public class EstructuraRepetitivas {
-
 public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int num;
@@ -129,7 +124,6 @@ public static void main(String[] args) {
 ## FOR
 
 public class EstructuraRepetitivas {
-
 public static void main(String[] args) {
 
         for(int num = 1; num <= 50; num+=2){
@@ -142,11 +136,9 @@ public static void main(String[] args) {
 ## FOR
 
 public class EstructuraRepetitivas {
-
 public static void main(String[] args) {
 
         boolean primo;
-
         System.out.println(" Son numeros primos del 1 al 100 : /n");
        
         for (int num= 2; num <=100; num ++){
