@@ -65,7 +65,6 @@ public class LogicaProgramacion {
 
 ### EJERCICIO 3 
 
-
 public class LogicaProgramacion {
    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -115,7 +114,9 @@ public class LogicaProgramacion {
 ### EJERCICIO 5 
 
 public class LogicaProgramacion {
+
    public static void main(String[] args) {
+
       int num = 5;
       num +=1;
       System.out.println(" Incremento :"+num);
@@ -127,7 +128,9 @@ public class LogicaProgramacion {
 ### EJERCICIO 6
 
 public class LogicaProgramacion {
+
    public static void main(String[] args) {
+
       int num = 10;
       num += 5;
       System.out.println(num);
