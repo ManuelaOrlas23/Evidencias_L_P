@@ -19,6 +19,22 @@ Ordenarlos de menor a mayor: {2, 3, 5, 9, 11, 12} El número de elementos es par
 
 La mediana es el elemento central de un grupo ordenado cuando la cantidad de elementos es impar. Y es el promedio de los dos elementos centrales cuando la cantidad es par.
 
+## Desarrollo 
+```
+public class calculadoraDeLaMediana{
+    public static void main (String [] args){
+    int{} conjuntoDatos ={3, 7, 5, 1, 9, 8, 12, 4};
+    int totalElementos = conjuntoDatos.lenght;
+
+    if (totalElementos % 2 == 0) {
+        System.out.println("El numero es impar");
+    }
+    else {
+        System.out.println("El numero es par")
+    }
+    }
+}
+```
 <!-- Su documentación aquí -->
 
 
