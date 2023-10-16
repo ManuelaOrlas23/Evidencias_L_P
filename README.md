@@ -36,7 +36,7 @@ title: Documentación
 nombres: Manuela Orlas Rengifo
 submodulo: Lógica de Programación
 periodo: 2023-2
-url_foto:  Enlace a la imagen
+url_foto:![Alt text](IMG_20230321_202940_995-fotor-20231016165423.jpg)
 ```
 
 ### 3. Actualizar contenido
