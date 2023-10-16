@@ -57,6 +57,7 @@ public class ContadorDeVocales {
 }
 ```
 3. 
+
 4. 
 ```
 public class ContadorDePalabras {
@@ -73,7 +74,6 @@ public class ContadorDePalabras {
         System.out.println("El número de palabras en el texto es: " + resultado);
     }
 }
-
 ```
 5. 
 ```
