@@ -37,6 +37,8 @@
 - 4.5 - 5.0: El estudiante recibe una beca completa.
 
 ## Desarrollo 
+
+```
 public class LogicaEstructuraCondicional {
     public static void main(String[] args) {
         // Variables de tipo String
@@ -144,6 +146,7 @@ public class LogicaEstructuraCondicional {
         }
         }
 }
+```
 <!-- Su documentación aquí -->
 
 
