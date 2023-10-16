@@ -40,11 +40,18 @@ public class EjercicioArray {
 
  ### Ejemplo Array list
 
+'''
+
 import java.util.ArrayList; 
+
 import java.util.Scanner;
+
 public class AppNotas {
+
   public static void main(String[] args) {
+
     ArrayList<String> notas = new ArrayList<>();
+
     Scanner scan = new Scanner(System.in);
 
     while(true) {
@@ -66,7 +73,6 @@ public class AppNotas {
     }
 
   }
-
   public static void agregarNota(ArrayList<String> notas, Scanner scan) {
     
     System.out.println("Ingrese el titulo de la nota:");
@@ -88,8 +94,10 @@ public class AppNotas {
   }
 
 }
+'''
 
 ## Explicacion de los ejercicios 
+
 # Array
 
 El código en java realizar 2 tareas:
@@ -118,6 +126,8 @@ Las funciones `agregarNota()` y `mostrarNotas()` son simples. `agregarNota()` pe
 2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 
  ### Ejercicio Array
+
+'''
 
 import java.util.Arrays;
 /**
@@ -154,6 +164,8 @@ public class Sesion8 {
         System.out.println("Array ordenado: " + Arrays.toString(datos));
     }
 }
+
+'''
 
 
 <!-- Su documentación aquí -->
