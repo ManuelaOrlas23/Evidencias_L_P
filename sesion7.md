@@ -6,10 +6,13 @@
 1. En parejas, probar, analizar y explicar el funcionamiento de los siguientes ejemplos de Array y ArrayList.
 
 ### Ejemplo Array
-
+```
 import java.util.Arrays;
+
 public class EjercicioArray {
+
     public static void main(String[] args) {
+
         // Crear un array de números enteros
         int[] numeros = {5, 2, 10, 7, 1};
 
@@ -38,10 +41,9 @@ public class EjercicioArray {
     }
 }
 
+```
  ### Ejemplo Array list
-
-'''
-
+```
 import java.util.ArrayList; 
 
 import java.util.Scanner;
@@ -84,7 +86,6 @@ public class AppNotas {
     notas.add(titulo + " - " + contenido);
 
   }
-
   public static void mostrarNotas(ArrayList<String> notas) {
 
     for(String n : notas) {
@@ -94,7 +95,7 @@ public class AppNotas {
   }
 
 }
-'''
+```
 
 ## Explicacion de los ejercicios 
 
@@ -126,9 +127,7 @@ Las funciones `agregarNota()` y `mostrarNotas()` son simples. `agregarNota()` pe
 2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 
  ### Ejercicio Array
-
-'''
-
+```
 import java.util.Arrays;
 /**
  *
@@ -164,8 +163,7 @@ public class Sesion8 {
         System.out.println("Array ordenado: " + Arrays.toString(datos));
     }
 }
-
-'''
+```
 
 
 <!-- Su documentación aquí -->
