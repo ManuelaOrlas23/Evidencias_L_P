@@ -15,7 +15,9 @@
 
 ### Desarrollo
 
-1. public class MayorDeDosNumeros {
+1. 
+```
+public class MayorDeDosNumeros {
     public static int encontrarMayor(int num1, int num2) {
         if (num1 > num2) {
             return num1;
@@ -31,8 +33,10 @@
         System.out.println("El número mayor es: " + resultado);
     }
 }
-
-2. public class ContadorDeVocales {
+```
+2. 
+```
+public class ContadorDeVocales {
     public static int contarVocales(String texto) {
         int contador = 0;
         for (int i = 0; i < texto.length(); i++) {
@@ -51,9 +55,11 @@
         System.out.println("El número de vocales en el texto es: " + resultado);
     }
 }
-
+```
 3. 
-4. public class ContadorDePalabras {
+4. 
+```
+public class ContadorDePalabras {
     public static int contarPalabras(String texto) {
         // Divide la cadena en palabras utilizando espacios en blanco como delimitador
         String[] palabras = texto.split("\\s+");
@@ -68,17 +74,21 @@
     }
 }
 
-5. import java.util.Arrays;
+```
+5. 
+```
+import java.util.Arrays;
 
 public class OrdenarPalabrasAlfabeticamente {
+
     public static String ordenarPalabras(String texto) {
-        // Divide la cadena en palabras utilizando espacios en blanco como delimitador
+        
         String[] palabras = texto.split("\\s+");
         
-        // Ordena las palabras alfabéticamente
+        
         Arrays.sort(palabras);
         
-        // Une las palabras ordenadas en una nueva cadena
+        
         String resultado = String.join(" ", palabras);
         
         return resultado;
@@ -90,7 +100,7 @@ public class OrdenarPalabrasAlfabeticamente {
         System.out.println("Texto con palabras ordenadas alfabéticamente: " + resultado);
     }
 }
-
+```
 
 <!-- Su documentación aquí -->
 
