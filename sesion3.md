@@ -49,7 +49,6 @@ public class LogicaProgramacion {
 
 ### EJERCICIO 2 
 
-'''
 
 public class LogicaProgramacion {
 
@@ -74,7 +73,6 @@ public class LogicaProgramacion {
 
 ### EJERCICIO 3 
 
-'''
 
 public class LogicaProgramacion {
 
@@ -104,7 +102,6 @@ public class LogicaProgramacion {
 
 ### EJERCICIO 4 
 
-'''
 
 public class LogicaProgramacion {
 
@@ -130,7 +127,6 @@ public class LogicaProgramacion {
 
 ### EJERCICIO 5 
 
-'''
 
 public class LogicaProgramacion {
 
@@ -146,8 +142,6 @@ public class LogicaProgramacion {
 '''
 
 ### EJERCICIO 6
-
-'''
 
 public class LogicaProgramacion {
 
