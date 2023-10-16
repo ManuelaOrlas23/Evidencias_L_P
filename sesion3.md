@@ -21,10 +21,13 @@
 - Operador ternario: Escribe un programa que tome un número entero ingresado por el usuario y utilice el operador ternario para determinar si el número es positivo o negativo. Luego, muestra el resultado en la salida.
 
 ## Desarrollo 
-### EJERCICIO 1 
 
+### EJERCICIO 1 
+'''
 public class LogicaProgramacion {
+
    public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         System.out.println("Ingrese un numero");
@@ -40,10 +43,13 @@ public class LogicaProgramacion {
         System.out.println(" El resultado de la multi es: "+multi);      
     }
 }
-
+'''
 ### EJERCICIO 2 
+'''
 public class LogicaProgramacion {
+
    public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         System.out.println("Ingrese un numero");
@@ -59,10 +65,13 @@ public class LogicaProgramacion {
         System.out.println(" El resultado de la division es: "+division);   
     }
 }
-
+'''
 ### EJERCICIO 3 
+'''
 public class LogicaProgramacion {
+
    public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         System.out.println("Ingrese un numero");
@@ -83,10 +92,13 @@ public class LogicaProgramacion {
         System.out.println(" El resultado dela division del tercer numero es:" +division);
     }
 }
-
+'''
 ### EJERCICIO 4 
+'''
 public class LogicaProgramacion {
+
    public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         System.out.print("Ingrese un número entero: ");
@@ -103,10 +115,13 @@ public class LogicaProgramacion {
         input.close();
     }
 }
-
+'''
 ### EJERCICIO 5 
+'''
 public class LogicaProgramacion {
+
    public static void main(String[] args) {
+
       int num = 5;
       num +=1;
       System.out.println(" Incremento :"+num);
@@ -114,15 +129,19 @@ public class LogicaProgramacion {
       System.out.println(" Decremento :"+num);
     }
 }
-
+'''
 ### EJERCICIO 6
+'''
 public class LogicaProgramacion {
+
    public static void main(String[] args) {
+
       int num = 10;
       num += 5;
       System.out.println(num);
     }
 }
+'''
 <!-- Su documentación aquí -->
 
 
