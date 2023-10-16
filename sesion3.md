@@ -24,6 +24,7 @@
 
 ### EJERCICIO 1 
 
+```
 public class LogicaProgramacion {
 
    public static void main(String[] args) {
@@ -43,10 +44,11 @@ public class LogicaProgramacion {
         System.out.println(" El resultado de la multi es: "+multi);      
     }
 }
-
+```
 
 ### EJERCICIO 2 
 
+```
 public class LogicaProgramacion {
 
    public static void main(String[] args) {
@@ -66,9 +68,11 @@ public class LogicaProgramacion {
         System.out.println(" El resultado de la division es: "+division);   
     }
 }
+```
 
 ### EJERCICIO 3 
 
+```
 public class LogicaProgramacion {
 
    public static void main(String[] args) {
@@ -93,14 +97,15 @@ public class LogicaProgramacion {
         System.out.println(" El resultado dela division del tercer numero es:" +division);
     }
 }
-
+```
 
 ### EJERCICIO 4 
 
+```
 public class LogicaProgramacion {
 
    public static void main(String[] args) {
-    
+
         Scanner input = new Scanner(System.in);
 
         System.out.print("Ingrese un número entero: ");
@@ -117,10 +122,11 @@ public class LogicaProgramacion {
         input.close();
     }
 }
-
+```
 
 ### EJERCICIO 5 
 
+```
 public class LogicaProgramacion {
 
    public static void main(String[] args) {
@@ -132,9 +138,11 @@ public class LogicaProgramacion {
       System.out.println(" Decremento :"+num);
     }
 }
+```
 
 ### EJERCICIO 6
 
+```
 public class LogicaProgramacion {
 
    public static void main(String[] args) {
@@ -144,7 +152,7 @@ public class LogicaProgramacion {
       System.out.println(num);
     }
 }
-
+```
 <!-- Su documentación aquí -->
 
 
