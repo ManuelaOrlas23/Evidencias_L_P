@@ -17,11 +17,14 @@
 - Imprimir los números impares del 1 al 50.
 - Imprimir los números primos del 1 al 100.
 
-## Desarrollo 
+## Desarrollo
+
 ## ESTRUCTURA WHILE
+'''
 public class EstructuraRepetitivas {
 
 public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         System.out.println(" Ingrese un numero entero");
@@ -40,9 +43,11 @@ public static void main(String[] args) {
         }
     }
 }
-
+'''
 ## ESTRUCTURA WHILE
+'''
 public static void main(String[] args) {
+
         Scanner Scanner = new Scanner(System.in);
        
         System.out.println(" Igrese una cadena de caracteres ");
@@ -63,10 +68,11 @@ public static void main(String[] args) {
         }
        
     }
-
+'''
 
 
  ## DO WHILE 
+'''
 public class EstructuraRepetitivas
 
 public static void main(String[] args) {
@@ -91,8 +97,9 @@ public static void main(String[] args) {
      
     }
 }
-
+'''
 ## DO WHILE 
+'''
 public class EstructuraRepetitivas {
 
 public static void main(String[] args) {
@@ -120,8 +127,9 @@ public static void main(String[] args) {
      
     }
 }
-
+'''
 ## FOR
+'''
 public class EstructuraRepetitivas {
 
 public static void main(String[] args) {
@@ -134,8 +142,9 @@ public static void main(String[] args) {
      
     }
 }
-
+'''
 ## FOR
+'''
 public class EstructuraRepetitivas {
 
 public static void main(String[] args) {
@@ -162,7 +171,9 @@ public static void main(String[] args) {
                 System.out.println(num);
             }
         }
-
+}
+}
+'''
 <!-- Su documentación aquí -->
 
 
