@@ -44,7 +44,7 @@ public class IMC {
 - En este programa, primero se solicita al usuario que ingrese su peso en kilogramos y su altura en metros. Luego se calcula el IMC dividiendo el peso entre la altura al cuadrado. Finalmente, se muestra el resultado en la consola con dos decimales utilizando el método printf de la clase System.out.
 
 
- - Calcular la cantidad de materiales necesarios para construir una pared de ladrillos
+ ## - Calcular la cantidad de materiales necesarios para construir una pared de ladrillos
 Cálculo de la cantidad de materiales para la construcción: Este ejercicio consiste en calcular la cantidad de materiales necesarios para construir una estructura. Para ello, se debe tener en cuenta las dimensiones de la estructura y la cantidad de materiales necesarios por unidad de área o de volumen. Algunos ejemplos de cálculos de materiales son el cálculo de la cantidad de ladrillos necesarios para construir una pared, o el cálculo de la cantidad de concreto necesario para una losa o columna.
 
 - Ejemplo en Java de cómo calcular la cantidad de materiales necesarios para construir una pared de ladrillos:
